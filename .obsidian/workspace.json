@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "23 Kotlin 协程原理.md",
+                "file": "10 性能优化.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "23 Kotlin 协程原理"
+              "title": "10 性能优化"
             }
           },
           {
@@ -216,13 +216,23 @@
               "icon": "lucide-list",
               "title": "未命名 的大纲"
             }
+          },
+          {
+            "id": "cc8a58b7ebbe619d",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -238,32 +248,32 @@
   },
   "active": "b5344d7c93c67180",
   "lastOpenFiles": [
+    "10.1 性能优化之 APK 瘦身.md",
+    "10 性能优化.md",
+    "8.1 OkHttp、Retrofit、RxJava 代码怎么写.md",
+    "1.4 ContentProvider 原理.md",
+    "1.3 service服务.md",
+    "1.2 Fragment 生命周期.md",
+    "13.1 ViewGroup 和 View 的区别及关系.md",
     "7 MVC、MVP、MVVM.md",
+    "14.1 滑动冲突+事件分发.md",
+    "22 蓝牙发数据.md",
+    "7.1 MVVM 生命周期（Model-View-ViewModel Lifecycle）.md",
+    "8 OkHttp、Retrofit、RxJava.md",
+    "15 滑动冲突.md",
+    "18 ConstraintLayout 约束布局.md",
+    "1.1 Activity 生命周期及源码.md",
     "23 Kotlin 协程原理.md",
+    "25.2 Kotlin 数据类型.md",
+    "20 RecyclerView 的“复用 ViewHolder”.md",
     "39 AES（对称加密）RSA（非对称加密）.md",
     "21 单例模式（Singleton Pattern）.md",
     "38 ARouter源码.md",
-    "22 蓝牙发数据.md",
     "11 WebView 与 JS 交互.md",
-    "10 性能优化.md",
-    "8 OkHttp、Retrofit、RxJava.md",
     "8.3 LiveData缺点.md",
     "2.1 AIDL.md",
-    "1.4 ContentProvider 原理.md",
     "5.1 Handler 源码级分析及原理.md",
     "5.2 Handler和HandlerThread的区别.md",
-    "16 ExoPlayer视频播放.md",
-    "12 Room 数据库.md",
-    "7.1 MVVM 生命周期（Model-View-ViewModel Lifecycle）.md",
-    "1.1.1 Activity启动模式.md",
-    "8.1 OkHttp、Retrofit、RxJava 代码怎么写.md",
-    "5.0 多线程.md",
-    "1.3 service服务.md",
-    "1.1 Activity 生命周期及源码.md",
-    "2 进程间通信（IPC）.md",
-    "20 RecyclerView 的“复用 ViewHolder”.md",
-    "13.2 自定义 View 绘制表格.md",
-    "22.2 BLE 自动分包 + 重组完整代码.md",
     "Pasted image 20260616160427.png",
     "handler_architecture_overview.png",
     "looper_loop_flowchart 1.png",
