@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "7.0  MVC、MVP、MVVM 之间的区别.md",
+                "file": "10.1 性能优化之 APK 瘦身.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "7.0  MVC、MVP、MVVM 之间的区别"
+              "title": "10.1 性能优化之 APK 瘦身"
             }
           }
         ],
