@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "7 MVC、MVP、MVVM.md",
+                "file": "7.0  MVC、MVP、MVVM 之间的区别.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "7 MVC、MVP、MVVM"
+              "title": "7.0  MVC、MVP、MVVM 之间的区别"
             }
           },
           {
@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "未命名.md",
+                "file": "25.4 Kotlin var和val｜可控类型.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,11 +76,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "未命名"
+              "title": "25.4 Kotlin var和val｜可控类型"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -254,16 +253,24 @@
       "bases:新建数据库": false
     }
   },
-  "active": "a9aed94a02d4d9a7",
+  "active": "f6f5307039a94193",
   "lastOpenFiles": [
+    "7 MVC、MVP、MVVM.md",
+    "25.4 Kotlin var和val｜可控类型.md",
+    "23 Kotlin 协程原理.md",
+    "22.2 BLE 自动分包 + 重组完整代码.md",
+    "22.1 BLE 分包.md",
+    "25.1 Kotlin 中函数（Function）.md",
+    "12.0 DataStore.md",
+    "24 Kotlin 协程源码.md",
+    "1.1 Activity 生命周期及源码.md",
+    "0.md",
     "未命名.md",
     "10.1 性能优化之 APK 瘦身.md",
     "7.0  MVC、MVP、MVVM 之间的区别.md",
-    "7 MVC、MVP、MVVM.md",
     "6 Glide 图片加载.md",
     "43  Android 动画.md",
     "23.1  Kotlin Coroutines、Flow、StateFlow 深度指南.md",
-    "12.0 DataStore.md",
     "5.2 Handler和HandlerThread的区别.md",
     "5.1 Handler 源码级分析及原理.md",
     "5.0 多线程.md",
@@ -274,14 +281,6 @@
     "2 进程间通信（IPC）.md",
     "1.4 ContentProvider 原理.md",
     "1.3 service服务.md",
-    "1.2 Fragment 生命周期.md",
-    "1.1.2 Activity 启动流程.md",
-    "1.1.3  Activity 和 Fragment 之间数据传递.md",
-    "1.1 Activity 生命周期及源码.md",
-    "42 ConcurrentHashMap 的底层原理和线程安全.md",
-    "15 滑动冲突.md",
-    "14.1 滑动冲突+事件分发.md",
-    "14 事件分发和事件拦截.md",
     "Pasted image 20260616160427.png",
     "handler_architecture_overview.png",
     "looper_loop_flowchart 1.png",
