@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "7.0  MVC、MVP、MVVM 之间的区别.md",
+                "file": "自我介绍.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "7.0  MVC、MVP、MVVM 之间的区别"
+              "title": "自我介绍"
             }
           },
           {
@@ -255,6 +255,7 @@
   },
   "active": "f6f5307039a94193",
   "lastOpenFiles": [
+    "7.0  MVC、MVP、MVVM 之间的区别.md",
     "7 MVC、MVP、MVVM.md",
     "25.4 Kotlin var和val｜可控类型.md",
     "23 Kotlin 协程原理.md",
@@ -265,9 +266,8 @@
     "24 Kotlin 协程源码.md",
     "1.1 Activity 生命周期及源码.md",
     "0.md",
-    "未命名.md",
+    "自我介绍.md",
     "10.1 性能优化之 APK 瘦身.md",
-    "7.0  MVC、MVP、MVVM 之间的区别.md",
     "6 Glide 图片加载.md",
     "43  Android 动画.md",
     "23.1  Kotlin Coroutines、Flow、StateFlow 深度指南.md",
