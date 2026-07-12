@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "未命名.md",
+                "file": "10.2  app怎么优化.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,10 +28,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "未命名"
+              "title": "10.2  app怎么优化"
+            }
+          },
+          {
+            "id": "f38e80c42094c559",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1.1 Activity 生命周期及源码.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "1.1 Activity 生命周期及源码"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -205,14 +230,25 @@
       "bases:新建数据库": false
     }
   },
-  "active": "791207c5deffa232",
+  "active": "f38e80c42094c559",
   "lastOpenFiles": [
-    "未命名.md",
+    "40 MQTT.md",
+    "Pasted image 20260616160427.png",
+    "UC字节腾讯 Android 高级面试题.md",
+    "自我介绍.md",
+    "亿达岗位题.md",
+    "商米（Sunmi）人脸识别 SDK**.md",
+    "绿番茄岗位题.md",
+    "车载开发.md",
+    "42 ConcurrentHashMap 的底层原理和线程安全.md",
+    "40.1  MQTT 协议.md",
+    "32 JNI.md",
+    "10.2  app怎么优化.md",
+    "7 MVC、MVP、MVVM.md",
+    "10.0  ANR.md",
     "25.4 Kotlin var和val｜可控类型.md",
     "10.1 性能优化之 APK 瘦身.md",
-    "自我介绍.md",
     "7.0  MVC、MVP、MVVM 之间的区别.md",
-    "7 MVC、MVP、MVVM.md",
     "23 Kotlin 协程原理.md",
     "22.2 BLE 自动分包 + 重组完整代码.md",
     "22.1 BLE 分包.md",
@@ -223,17 +259,6 @@
     "0.md",
     "6 Glide 图片加载.md",
     "43  Android 动画.md",
-    "23.1  Kotlin Coroutines、Flow、StateFlow 深度指南.md",
-    "5.2 Handler和HandlerThread的区别.md",
-    "5.1 Handler 源码级分析及原理.md",
-    "5.0 多线程.md",
-    "5 Handler 原理.md",
-    "4 内存溢出 OOM.md",
-    "3 内存泄露.md",
-    "2.1 AIDL.md",
-    "2 进程间通信（IPC）.md",
-    "1.4 ContentProvider 原理.md",
-    "Pasted image 20260616160427.png",
     "handler_architecture_overview.png",
     "looper_loop_flowchart 1.png",
     "looper_loop_flowchart 3.png",
