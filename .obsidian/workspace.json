@@ -30,8 +30,57 @@
               "icon": "lucide-file",
               "title": "40.1  MQTT 协议"
             }
+          },
+          {
+            "id": "65316185097e28b4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "31  Kotlin Multiplatform (KMP).md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "31  Kotlin Multiplatform (KMP)"
+            }
+          },
+          {
+            "id": "6c557b528b9e4a03",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "31.1  KMP 中的 Coroutine 跨平台和 完整的网络层设计.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "31.1  KMP 中的 Coroutine 跨平台和 完整的网络层设计"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -194,11 +243,21 @@
       "bases:新建数据库": false
     }
   },
-  "active": "5216514be8d3bf56",
+  "active": "6c557b528b9e4a03",
   "lastOpenFiles": [
-    "35 compose是什么，代码原理是什么，写个登录页面和我的页面严格按照UI图片写.md",
-    "35.0   Compose.md",
+    "31.1  KMP 中的 Coroutine 跨平台和 完整的网络层设计.md",
+    "31  Kotlin Multiplatform (KMP).md",
     "36 Coroutine（Kotlin 协程）.md",
+    "32.0   Compose.md",
+    "32 compose是什么，代码原理是什么，写个登录页面和我的页面严格按照UI图片写.md",
+    "30 插件化.md",
+    "29 JNI.md",
+    "28 Binder IPC 原理（这些服务都是通过 Binder 调用）.md",
+    "27.3  PMS 安装 APK 源码（PackageParser、DexOpt）.md",
+    "27.2  WMS 显示 View 源码（ViewRootImpl、Surface）.md",
+    "27.1  AMS 启动 Activity 源码（ActivityStarter、ActivityRecord）.md",
+    "27 AMS WMS PMS分别是什么，代码原理是什么.md",
+    "40.1  MQTT 协议.md",
     "36.1  Coroutine + Flow + ViewModel 的写法.md",
     "42 ConcurrentHashMap 的底层原理和线程安全.md",
     "app 逆向工程：4周实战计划.md",
@@ -212,16 +271,6 @@
     "车载智能座舱Android工程师.md",
     "商米（Sunmi）人脸识别 SDK**.md",
     "亿达岗位题.md",
-    "自我介绍.md",
-    "25.5.1 Kotlin 内联函数  Inline Functions.md",
-    "13 自定义 View.md",
-    "25.6   Kotlin协程的阻塞（Blocking）与挂起（Suspending）.md",
-    "25.5.2 Kotlin 常用高级函数.md",
-    "25.5 Kotlin 高级函数.md",
-    "25.4 Kotlin var和val｜可控类型.md",
-    "25.2 Kotlin 数据类型.md",
-    "23 Kotlin 协程原理.md",
-    "24 Kotlin 协程源码.md",
     "Pasted image 20260616160427.png",
     "handler_architecture_overview.png",
     "looper_loop_flowchart 1.png",
