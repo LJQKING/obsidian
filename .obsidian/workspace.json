@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "31  Kotlin Multiplatform (KMP).md",
+                "file": "docs/知识库知识类型分析与序列排序分类.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,35 +52,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "31  Kotlin Multiplatform (KMP)"
-            }
-          },
-          {
-            "id": "6c557b528b9e4a03",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "31.1  KMP 中的 Coroutine 跨平台和 完整的网络层设计.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "31.1  KMP 中的 Coroutine 跨平台和 完整的网络层设计"
+              "title": "知识库知识类型分析与序列排序分类"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -243,10 +219,17 @@
       "bases:新建数据库": false
     }
   },
-  "active": "6c557b528b9e4a03",
+  "active": "65316185097e28b4",
   "lastOpenFiles": [
-    "31.1  KMP 中的 Coroutine 跨平台和 完整的网络层设计.md",
     "31  Kotlin Multiplatform (KMP).md",
+    "未命名.base",
+    "未命名 1.base",
+    "docs/知识库知识类型分析与序列排序分类.md",
+    "docs",
+    "车载智能座舱Android工程师.md",
+    "4 内存溢出 OOM.md",
+    "5 Handler 原理.md",
+    "31.1  KMP 中的 Coroutine 跨平台和 完整的网络层设计.md",
     "36 Coroutine（Kotlin 协程）.md",
     "32.0   Compose.md",
     "32 compose是什么，代码原理是什么，写个登录页面和我的页面严格按照UI图片写.md",
@@ -266,11 +249,6 @@
     "面试建议.md",
     "8 OkHttp、Retrofit、RxJava.md",
     "App 逆向工程.md",
-    "绿番茄岗位题.md",
-    "车载开发.md",
-    "车载智能座舱Android工程师.md",
-    "商米（Sunmi）人脸识别 SDK**.md",
-    "亿达岗位题.md",
     "Pasted image 20260616160427.png",
     "handler_architecture_overview.png",
     "looper_loop_flowchart 1.png",
@@ -280,7 +258,6 @@
     "kernel_epoll_eventfd_structure.png",
     "handler_full_stack_layers.png",
     "未命名 1.canvas",
-    "未命名.canvas",
-    "未命名.base"
+    "未命名.canvas"
   ]
 }
