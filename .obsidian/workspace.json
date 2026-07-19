@@ -13,6 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "日常使用/IDA-Pro-MCP-Headless-配置指南.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "IDA-Pro-MCP-Headless-配置指南"
+            }
+          },
+          {
+            "id": "78436f6f64090358",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "日常使用/Mole命令.md",
                 "mode": "source",
                 "source": false,
@@ -31,7 +55,8 @@
               "title": "Mole命令"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -194,9 +219,12 @@
       "bases:新建数据库": false
     }
   },
-  "active": "5216514be8d3bf56",
+  "active": "78436f6f64090358",
   "lastOpenFiles": [
-    "未命名.md",
+    "code知识库/2.1 AIDL.md",
+    "日常使用/Mole命令.md",
+    "日常使用/IDA-Pro-MCP-Headless-配置指南.md",
+    "日常使用/claude code 插件.md",
     "40.1  MQTT 协议.md",
     "23.0  Kotlin 类委托、属性委托、泛型.md",
     "code知识库/UC字节腾讯 Android 高级面试题.md",
@@ -227,9 +255,6 @@
     "code知识库/37 MMKV 框架.md",
     "code知识库/36.1  Coroutine + Flow + ViewModel 的写法.md",
     "code知识库/36 Coroutine（Kotlin 协程）.md",
-    "code知识库/32.0   Compose.md",
-    "code知识库/32 compose是什么，代码原理是什么，写个登录页面和我的页面严格按照UI图片写.md",
-    "code知识库/31.1  KMP 中的 Coroutine 跨平台和 完整的网络层设计.md",
     "code知识库",
     "日常使用",
     "未命名.base",
