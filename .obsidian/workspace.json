@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "code知识库/10.3  Perfetto性能分析.md",
+                "file": "code知识库/10.3  Perfetto性能分析+RecyclerView优化.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "10.3  Perfetto性能分析"
+              "title": "10.3  Perfetto性能分析+RecyclerView优化"
             }
           },
           {
@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "code知识库/7.2  MVI 框架的实现原理及与 MVVM 的对比.md",
+                "file": "日常使用/Mole命令.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,10 +76,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "7.2  MVI 框架的实现原理及与 MVVM 的对比"
+              "title": "Mole命令"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -242,11 +243,13 @@
       "bases:新建数据库": false
     }
   },
-  "active": "cf943256ad092e7b",
+  "active": "416e916ffa169c45",
   "lastOpenFiles": [
-    "code知识库/12.0 DataStore.md",
+    "code知识库/12.2  Room 表结构改动（Schema 变更）.md",
+    "日常使用/Mole命令.md",
     "code知识库/7.2  MVI 框架的实现原理及与 MVVM 的对比.md",
-    "code知识库/10.3  Perfetto性能分析.md",
+    "code知识库/10.3  Perfetto性能分析+RecyclerView优化.md",
+    "code知识库/12.0 DataStore.md",
     "code知识库/app 逆向工程：4周实战计划.md",
     "code知识库/14.1 滑动冲突+事件分发.md",
     "code知识库/12 Room 数据库.md",
@@ -265,11 +268,9 @@
     "code知识库/24.0 Hilt  Dagger  依赖注入.md",
     "code知识库/24.1  Kotlin 协程源码面试题.md",
     "code知识库/24 Kotlin 协程源码.md",
-    "日常使用/Mole命令.md",
     "code知识库/25.7  Kotlin 高级及源码面试题.md",
     "code知识库/23 Kotlin 协程原理.md",
     "code知识库/23.0  Kotlin 类委托、属性委托、泛型.md",
-    "code知识库/23.1  Kotlin Coroutines、Flow、StateFlow 深度指南.md",
     "code知识库/Pasted image 20260616160427.png",
     "code知识库/looper_loop_flowchart.png",
     "code知识库/looper_loop_flowchart 3.png",
