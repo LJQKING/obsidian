@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "cf943256ad092e7b",
+            "id": "85d436425380014d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "code知识库/12.2  Room 表结构改动（Schema 变更）.md",
+                "file": "code知识库/32.1  Compose 控件指南.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,16 +28,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "12.2  Room 表结构改动（Schema 变更）"
+              "title": "32.1  Compose 控件指南"
             }
           },
           {
-            "id": "416e916ffa169c45",
+            "id": "d95e836649ddb9ba",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "code知识库/10.3  Perfetto性能分析+RecyclerView优化.md",
+                "file": "code知识库/32.2  Compose 修饰符和作用域.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,16 +52,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "10.3  Perfetto性能分析+RecyclerView优化"
+              "title": "32.2  Compose 修饰符和作用域"
             }
           },
           {
-            "id": "39ddd8c7dd72ec28",
+            "id": "cfcc87d8f591e98d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日常使用/Mole命令.md",
+                "file": "code知识库/32.2  Compose 修饰符和作用域.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,11 +76,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Mole命令"
+              "title": "32.2  Compose 修饰符和作用域"
+            }
+          },
+          {
+            "id": "ac7e94e6fe1c7262",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "code知识库/32.2  Compose 修饰符和作用域.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "32.2  Compose 修饰符和作用域"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -243,12 +267,17 @@
       "bases:新建数据库": false
     }
   },
-  "active": "416e916ffa169c45",
+  "active": "ac7e94e6fe1c7262",
   "lastOpenFiles": [
-    "code知识库/12.2  Room 表结构改动（Schema 变更）.md",
+    "code知识库/32.1  Compose 控件指南.md",
+    "code知识库/32.0   Compose.md",
+    "code知识库/32.3  Compose 官方文档.md",
+    "Android原生 Framework和AndroidX.md",
+    "code知识库/32.2  Compose 修饰符和作用域.md",
     "日常使用/Mole命令.md",
-    "code知识库/7.2  MVI 框架的实现原理及与 MVVM 的对比.md",
     "code知识库/10.3  Perfetto性能分析+RecyclerView优化.md",
+    "code知识库/12.2  Room 表结构改动（Schema 变更）.md",
+    "code知识库/7.2  MVI 框架的实现原理及与 MVVM 的对比.md",
     "code知识库/12.0 DataStore.md",
     "code知识库/app 逆向工程：4周实战计划.md",
     "code知识库/14.1 滑动冲突+事件分发.md",
@@ -263,14 +292,9 @@
     "code知识库/7.1 MVVM 生命周期（Model-View-ViewModel Lifecycle）.md",
     "日常使用/IDA-Pro-MCP-Headless-配置指南.md",
     "code知识库/10 性能优化.md",
-    "code知识库/32.0   Compose.md",
     "日常使用/claude code 插件.md",
     "code知识库/24.0 Hilt  Dagger  依赖注入.md",
     "code知识库/24.1  Kotlin 协程源码面试题.md",
-    "code知识库/24 Kotlin 协程源码.md",
-    "code知识库/25.7  Kotlin 高级及源码面试题.md",
-    "code知识库/23 Kotlin 协程原理.md",
-    "code知识库/23.0  Kotlin 类委托、属性委托、泛型.md",
     "code知识库/Pasted image 20260616160427.png",
     "code知识库/looper_loop_flowchart.png",
     "code知识库/looper_loop_flowchart 3.png",
