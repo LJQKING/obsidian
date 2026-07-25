@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "294c93ed108a230b",
+        "id": "5b94e5a12847c5cb",
         "type": "tabs",
         "children": [
           {
-            "id": "35890a91a19e4355",
+            "id": "68c0dbf6fc3df6da",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "code知识库/38 ARouter源码.md",
+                "file": "code知识库/33.0  Dagger2 完全解析.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,35 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "38 ARouter源码"
-            }
-          },
-          {
-            "id": "17445d4b448122c8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "code知识库/25.1 Kotlin 函数.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "25.1 Kotlin 函数"
+              "title": "33.0  Dagger2 完全解析"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -191,13 +166,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "code知识库/25.1 Kotlin 函数.md",
+                "file": "code知识库/33.0  Dagger2 完全解析.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "25.1 Kotlin 函数 的大纲"
+              "title": "33.0  Dagger2 完全解析 的大纲"
             }
           }
         ],
@@ -218,34 +193,34 @@
       "bases:新建数据库": false
     }
   },
-  "active": "17445d4b448122c8",
+  "active": "68c0dbf6fc3df6da",
   "lastOpenFiles": [
-    "code知识库/11 WebView 与 JS 交互.md",
-    "code知识库/10.2  app怎么优化.md",
-    "code知识库/7.0  MVC、MVP、MVVM 之间的区别.md",
-    "code知识库/13.3  自定义 View绘制完后刷新数据.md",
-    "code知识库/13 自定义 View.md",
-    "code知识库/38 ARouter源码.md",
-    "code知识库/13.2 自定义 View 绘制表格.md",
-    "code知识库/13.1 ViewGroup 和 View 的区别及关系.md",
-    "code知识库/13.4  自定义 View `onDraw()`、`onDrawForeground()` 和 `onDrawBackground().md",
-    "code知识库/21.0  单例｜工厂｜观察者｜责任链｜建造者模式.md",
-    "code知识库/21 单例模式（Singleton Pattern）.md",
-    "Hybrid 混合开发、WebView 原理、JSBridge 通信机制.md",
-    "code知识库/app 逆向工程：4周实战计划.md",
-    "code知识库/40.1  MQTT 协议.md",
+    "code知识库/33 Hilt  Dagger  依赖注入.md",
+    "code知识库/33.0  Dagger2 完全解析.md",
+    "code知识库/33.1  Dagger2 vs Hilt 深度对比.md",
+    "code知识库/23.1  Kotlin Coroutines、Flow、StateFlow 深度指南.md",
+    "code知识库/24.1.1  Coroutine（Kotlin 协程）.md",
+    "code知识库/8.0 Retrofit + OkHttp + RxJava + Dagger2.md",
+    "code知识库/37 MMKV 框架.md",
+    "code知识库/UC字节腾讯 Android 高级面试题.md",
+    "code知识库/面试建议.md",
+    "code知识库/车载智能座舱Android工程师.md",
+    "code知识库/42 ConcurrentHashMap 的底层原理和线程安全.md",
     "code知识库/43  Android 动画.md",
+    "code知识库/车载开发.md",
+    "code知识库/绿番茄岗位题.md",
     "Android原生 Framework和AndroidX.md",
-    "code知识库/31  Kotlin Multiplatform (KMP).md",
-    "KMP 中 Coroutine 跨平台与网络层设计.md",
-    "KMP Dispatcher  Repository  StateFlow vs SharedFlow.md",
-    "code知识库/27 AMS WMS PMS分别是什么，代码原理是什么.md",
-    "code知识库/27.3  PMS 安装 APK 源码（PackageParser、DexOpt）.md",
-    "code知识库/27.2  WMS 显示 View 源码（ViewRootImpl、Surface）.md",
-    "code知识库/32.1  Compose 控件指南.md",
-    "code知识库/32.2  Compose 修饰符和作用域.md",
-    "code知识库/32.0   Compose.md",
-    "code知识库/32.3  Compose 官方文档.md",
+    "code知识库/商米（Sunmi）人脸识别 SDK**.md",
+    "code知识库/亿达岗位题.md",
+    "code知识库/自我介绍.md",
+    "code知识库/10.4  LeakCanary检测和排查内存泄露，弱引用及GC回收机制.md",
+    "code知识库/10.3  Perfetto性能分析+RecyclerView优化.md",
+    "code知识库/10.1 性能优化之 APK 瘦身.md",
+    "code知识库/10.2  app怎么优化.md",
+    "code知识库/10 性能优化.md",
+    "code知识库/8.0.1 Retrofit + OkHttp + RxJava  实战进阶.md",
+    "code知识库/8.1 OkHttp、Retrofit、RxJava 代码怎么写.md",
+    "code知识库/8.3 LiveData缺点.md",
     "code知识库/Pasted image 20260616160427.png",
     "code知识库/looper_loop_flowchart.png",
     "code知识库/looper_loop_flowchart 3.png",
