@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "5b94e5a12847c5cb",
+        "id": "3c48604f0817e36d",
         "type": "tabs",
         "children": [
           {
-            "id": "68c0dbf6fc3df6da",
+            "id": "dc8eb91165e710af",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "code知识库/33.0  Dagger2 完全解析.md",
+                "file": "code知识库/24.3  LiveData｜RxJava｜Flow 不同场景实现.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,65 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "33.0  Dagger2 完全解析"
+              "title": "24.3  LiveData｜RxJava｜Flow 不同场景实现"
+            }
+          },
+          {
+            "id": "71bad3e463a6fd0f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "code知识库/车载智能座舱Android工程师.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "车载智能座舱Android工程师"
+            }
+          },
+          {
+            "id": "813064f97255254a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "北方科诚.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "北方科诚"
+            }
+          },
+          {
+            "id": "b6c60f298e2b3460",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
             }
           }
         ]
@@ -166,13 +224,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "code知识库/33.0  Dagger2 完全解析.md",
+                "file": "code知识库/24.3  LiveData｜RxJava｜Flow 不同场景实现.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "33.0  Dagger2 完全解析 的大纲"
+              "title": "24.3  LiveData｜RxJava｜Flow 不同场景实现 的大纲"
             }
           }
         ],
@@ -180,7 +238,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 297.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -193,34 +251,35 @@
       "bases:新建数据库": false
     }
   },
-  "active": "68c0dbf6fc3df6da",
+  "active": "dc8eb91165e710af",
   "lastOpenFiles": [
-    "code知识库/33 Hilt  Dagger  依赖注入.md",
-    "code知识库/33.0  Dagger2 完全解析.md",
-    "code知识库/33.1  Dagger2 vs Hilt 深度对比.md",
-    "code知识库/23.1  Kotlin Coroutines、Flow、StateFlow 深度指南.md",
-    "code知识库/24.1.1  Coroutine（Kotlin 协程）.md",
-    "code知识库/8.0 Retrofit + OkHttp + RxJava + Dagger2.md",
-    "code知识库/37 MMKV 框架.md",
-    "code知识库/UC字节腾讯 Android 高级面试题.md",
-    "code知识库/面试建议.md",
-    "code知识库/车载智能座舱Android工程师.md",
-    "code知识库/42 ConcurrentHashMap 的底层原理和线程安全.md",
-    "code知识库/43  Android 动画.md",
-    "code知识库/车载开发.md",
-    "code知识库/绿番茄岗位题.md",
+    "北方科诚.md",
     "Android原生 Framework和AndroidX.md",
-    "code知识库/商米（Sunmi）人脸识别 SDK**.md",
-    "code知识库/亿达岗位题.md",
-    "code知识库/自我介绍.md",
+    "code知识库/车载智能座舱Android工程师.md",
+    "code知识库/24.3  LiveData｜RxJava｜Flow 不同场景实现.md",
+    "code知识库/8.4 ViewModel 和 LiveData 在 MVVM 框架中的作用.md",
+    "code知识库/0  Kotlin  函数｜MVVM｜Jetpack｜协程｜Retrofit + OkHttp.md",
     "code知识库/10.4  LeakCanary检测和排查内存泄露，弱引用及GC回收机制.md",
-    "code知识库/10.3  Perfetto性能分析+RecyclerView优化.md",
-    "code知识库/10.1 性能优化之 APK 瘦身.md",
-    "code知识库/10.2  app怎么优化.md",
-    "code知识库/10 性能优化.md",
-    "code知识库/8.0.1 Retrofit + OkHttp + RxJava  实战进阶.md",
-    "code知识库/8.1 OkHttp、Retrofit、RxJava 代码怎么写.md",
-    "code知识库/8.3 LiveData缺点.md",
+    "code知识库/24.2  Coroutine + Flow + ViewModel 的写法.md",
+    "code知识库/33.2  Hilt 解析.md",
+    "code知识库/37 MMKV 框架.md",
+    "code知识库/33 Hilt  Dagger  依赖注入.md",
+    "code知识库/32 compose是什么，代码原理是什么，写个登录页面和我的页面严格按照UI图片写.md",
+    "Hybrid 混合开发、WebView 原理、JSBridge 通信机制.md",
+    "code知识库/31.3 KMP Dispatcher  Repository  StateFlow vs SharedFlow.md",
+    "code知识库/31.2  KMP 中 Coroutine 跨平台与网络层设计.md",
+    "code知识库/31.1  KMP 中的 Coroutine 跨平台和 完整的网络层设计.md",
+    "code知识库/31  Kotlin Multiplatform (KMP).md",
+    "code知识库/30 插件化.md",
+    "code知识库/29 JNI.md",
+    "code知识库/28 Binder IPC 原理（这些服务都是通过 Binder 调用）.md",
+    "code知识库/27.1  AMS 启动 Activity 源码（ActivityStarter、ActivityRecord）.md",
+    "code知识库/27 AMS WMS PMS分别是什么，代码原理是什么.md",
+    "code知识库/26 framework是什么，怎么组成的，具体怎么使用.md",
+    "code知识库/25.7  Kotlin 高级及源码面试题.md",
+    "code知识库/25.1 Kotlin 函数.md",
+    "code知识库/23 Kotlin 协程原理.md",
+    "code知识库/handler_architecture_overview.png",
     "code知识库/Pasted image 20260616160427.png",
     "code知识库/looper_loop_flowchart.png",
     "code知识库/looper_loop_flowchart 3.png",
@@ -228,7 +287,6 @@
     "code知识库/looper_loop_flowchart 1.png",
     "code知识库/kernel_epoll_eventfd_structure.png",
     "code知识库/handler_full_stack_layers.png",
-    "code知识库/handler_architecture_overview.png",
     "code知识库",
     "日常使用",
     "未命名.base",
