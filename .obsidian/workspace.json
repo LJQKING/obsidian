@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "0b0211cab5964c4a",
+        "id": "8caee2d215c93dfb",
         "type": "tabs",
         "children": [
           {
-            "id": "e4ccc6166e41aebc",
+            "id": "6718d5b976473f5f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "21.1  单例｜观察者｜责任链 场景和组件.md",
+                "file": "Android 开发高级岗位.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,107 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "21.1  单例｜观察者｜责任链 场景和组件"
-            }
-          },
-          {
-            "id": "6a72c794218d3a4d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "code知识库/25.4 Kotlin var和val｜可控类型.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "25.4 Kotlin var和val｜可控类型"
-            }
-          },
-          {
-            "id": "20093f88cadc3154",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "code知识库/42 ConcurrentHashMap 的底层原理和线程安全.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "42 ConcurrentHashMap 的底层原理和线程安全"
-            }
-          },
-          {
-            "id": "62abb34de0500bda",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "code知识库/车载智能座舱Android工程师.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "车载智能座舱Android工程师"
-            }
-          },
-          {
-            "id": "8bfadf1b37ac1c2f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "code知识库/1.5  BroadcastReceiver 广播详解.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "1.5  BroadcastReceiver 广播详解"
+              "title": "Android 开发高级岗位"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -265,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "code知识库/42 ConcurrentHashMap 的底层原理和线程安全.md",
+                "file": "Android 开发高级岗位.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -292,43 +195,44 @@
       "bases:新建数据库": false
     }
   },
-  "active": "20093f88cadc3154",
+  "active": "6718d5b976473f5f",
   "lastOpenFiles": [
-    "code知识库/1.5  BroadcastReceiver 广播详解.md",
-    "code知识库/车载智能座舱Android工程师.md",
-    "code知识库/2 进程间通信（IPC）.md",
-    "21.1  单例｜观察者｜责任链 场景和组件.md",
-    "code知识库/25.4 Kotlin var和val｜可控类型.md",
-    "code知识库/42 ConcurrentHashMap 的底层原理和线程安全.md",
-    "code知识库/2.1 AIDL.md",
-    "code知识库/25.5 Kotlin 高级函数.md",
-    "Flow、StateFlow 和 SharedFlow 的核心原理.md",
-    "code知识库/24.2  Coroutine + Flow + ViewModel 的写法.md",
-    "code知识库/1.1 Activity 生命周期及源码.md",
+    "线程通信与进程通信.md",
+    "线程通信 & 进程通信车载.md",
+    "面试问题清单.md",
+    "Hybrid 混合开发、WebView 原理、JSBridge 通信机制.md",
+    "图片/looper_loop_flowchart 1.png",
+    "code知识库/5.1 Handler 源码级分析及原理.md",
+    "图片/handler_full_stack_layers.png",
+    "图片/handler_architecture_overview.png",
+    "图片",
+    "code知识库/5.0 防内存泄漏的 Handler.md",
+    "code知识库/5.1  Handler 原理.md",
+    "Android原生 Framework和AndroidX.md",
+    "Android 开发高级岗位.md",
+    "A Java并发｜Kotlin协程｜内存管理.md",
+    "A 网络通信｜应用架构｜handler和线程池.md",
+    "线程通信 + 进程通信 + BinderAIDL + Java并发.md",
+    "code知识库/1.6 车载内Service和ContentProvider，BroadcastReceiver，AIDL.md",
+    "code知识库/8.0 Retrofit + OkHttp + RxJava + Dagger2.md",
+    "code知识库/24.4.1 Flow、StateFlow 和 SharedFlow 的核心原理.md",
+    "code知识库/24.4 Kotlin Flow 和 StateFlow 在复杂场景中的应用与原理.md",
+    "code知识库/24.3  LiveData｜RxJava｜Flow 不同场景实现.md",
+    "code知识库/24.1.2   Kotlin协程的阻塞（Blocking）与挂起（Suspending）.md",
+    "code知识库/21.0.1  单例｜观察者｜责任链 场景和组件.md",
     "code知识库/21.0  单例｜工厂｜观察者｜责任链｜建造者模式.md",
-    "code知识库/1.4 ContentProvider 原理.md",
-    "code知识库/1.2 Fragment 生命周期.md",
-    "code知识库/1.2.1  使用 ViewModel 在 Fragment 之间传递共享数据.md",
-    "code知识库/1.1.2 Activity 启动流程.md",
-    "code知识库/8.1 OkHttp、Retrofit、RxJava 代码怎么写.md",
+    "code知识库/12.0.1  DataStore 首页Item.md",
+    "code知识库/10.2.1  Android app冷启动和热启动.md",
+    "code知识库/10.4  LeakCanary检测和排查内存泄露，弱引用及GC回收机制.md",
+    "code知识库/9.2  POST请求头Content-Type.md",
+    "code知识库/9 OkHttp 拦截器（Interceptor）.md",
     "code知识库/8.0.1 Retrofit + OkHttp + RxJava  实战进阶.md",
-    "code知识库/8.3 LiveData缺点.md",
-    "code知识库/25.8 Kotlin Flow 和 StateFlow 在复杂场景中的应用与原理.md",
-    "code知识库/12.0 DataStore.md",
-    "code知识库/12.0.2  MMKV和Datastore对比.md",
-    "code知识库/6 Glide 图片加载.md",
-    "code知识库/21 单例模式（Singleton Pattern）.md",
-    "code知识库/7.2  MVI 框架的实现原理及与 MVVM 的对比.md",
-    "code知识库/7.1 MVVM 生命周期（Model-View-ViewModel Lifecycle）.md",
-    "handler_full_stack_layers.png",
-    "handler_architecture_overview.png",
     "code知识库/handler_architecture_overview.png",
-    "kernel_epoll_eventfd_structure.png",
-    "Pasted image 20260616160427.png",
-    "looper_loop_flowchart.png",
-    "looper_loop_flowchart 3.png",
-    "looper_loop_flowchart 2.png",
-    "looper_loop_flowchart 1.png",
+    "图片/kernel_epoll_eventfd_structure.png",
+    "图片/Pasted image 20260616160427.png",
+    "图片/looper_loop_flowchart.png",
+    "图片/looper_loop_flowchart 3.png",
+    "图片/looper_loop_flowchart 2.png",
     "code知识库/Pasted image 20260616160427.png",
     "code知识库",
     "日常使用",
