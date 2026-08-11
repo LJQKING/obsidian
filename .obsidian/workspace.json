@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "43af44f7f9e4bb59",
+        "id": "94e306baed6fc441",
         "type": "tabs",
         "children": [
           {
-            "id": "2901e12f7d6b2e78",
+            "id": "dc5c7ad6c16261ae",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "code知识库/5 多线程.md",
+                "file": "code知识库/10.0  ANR.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,16 +28,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "5 多线程"
+              "title": "10.0  ANR"
             }
           },
           {
-            "id": "21ebddbc0b454e6b",
+            "id": "e9bddada1840b078",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "code知识库/2.1 Android AIDL.md",
+                "file": "code知识库/5.3 Android 线程池.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,11 +52,130 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2.1 Android AIDL"
+              "title": "5.3 Android 线程池"
+            }
+          },
+          {
+            "id": "8ff1df801af781bb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "code知识库/0.1 ADB Shell 命令.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "0.1 ADB Shell 命令"
+            }
+          },
+          {
+            "id": "f9d2b06b431fb409",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "code知识库/0.2 git命令.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "0.2 git命令"
+            }
+          },
+          {
+            "id": "aef2414705239163",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "code知识库/13.2 自定义 View 绘制表格.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "13.2 自定义 View 绘制表格"
+            }
+          },
+          {
+            "id": "7133812ca30b6848",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "code知识库/43  Android 动画.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "43  Android 动画"
+            }
+          },
+          {
+            "id": "92f15f9749344e78",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "code知识库/21.0.1  单例｜观察者｜责任链 场景和组件.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "21.0.1  单例｜观察者｜责任链 场景和组件"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -109,6 +228,16 @@
               "state": {},
               "icon": "lucide-bookmark",
               "title": "书签"
+            }
+          },
+          {
+            "id": "a83edffdf4904866",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "clock",
+              "title": "Recent files"
             }
           }
         ]
@@ -193,7 +322,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "code知识库/2.1 Android AIDL.md",
+                "file": "code知识库/10.0  ANR.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -214,14 +343,29 @@
       "graph:查看关系图谱": false,
       "switcher:打开快速切换": false,
       "canvas:新建白板": false,
-      "daily-notes:打开/创建今天的日记": false,
-      "templates:插入模板": false,
-      "command-palette:打开命令面板": false,
-      "bases:新建数据库": false
+      "bases:新建数据库": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "21ebddbc0b454e6b",
+  "active": "dc5c7ad6c16261ae",
   "lastOpenFiles": [
+    "code知识库/10 性能优化.md",
+    "code知识库/0.2 git命令.md",
+    "code知识库/0  Kotlin  函数｜MVVM｜Jetpack｜协程｜Retrofit + OkHttp.md",
+    "code知识库/5.0.1 Android Handler.md",
+    "code知识库/21.0.1  单例｜观察者｜责任链 场景和组件.md",
+    "code知识库/43  Android 动画.md",
+    "code知识库/13.2 自定义 View 绘制表格.md",
+    "code知识库/13 自定义 View.md",
+    "code知识库/13.0  自定义View 实现高性能图表.md",
+    "code知识库/0.1 ADB Shell 命令.md",
+    "code知识库/5.3 Android 线程池.md",
+    "code知识库/5 多线程.md",
+    "code知识库/3.1 内存泄露根本原因.md",
+    "code知识库/3 内存泄露.md",
+    "code知识库/4 内存溢出 OOM.md",
+    "code知识库/16 ExoPlayer视频播放.md",
+    "code知识库/2.1 Android AIDL.md",
     "code知识库/10.4.1 LeakCanary.md",
     "Hybrid 混合开发、WebView 原理、JSBridge 通信机制.md",
     "Android原生 Framework和AndroidX.md",
@@ -231,23 +375,6 @@
     "code知识库/8.3.1 Android LiveData.md",
     "code知识库/8.3 LiveData缺点.md",
     "code知识库/8.4 ViewModel 和 LiveData 在 MVVM 框架中的作用.md",
-    "code知识库/8.2 Socket 通信.md",
-    "code知识库/8.1.2  http请求优化和@POST请求限制.md",
-    "code知识库/8.1.1 OkHttp的多路复用.md",
-    "code知识库/8.1 OkHttp、Retrofit、RxJava 代码怎么写.md",
-    "code知识库/8.0.1 Retrofit + OkHttp + RxJava  实战进阶.md",
-    "code知识库/8.0 Retrofit + OkHttp + RxJava + Dagger2.md",
-    "code知识库/8 OkHttp、Retrofit、RxJava.md",
-    "code知识库/7.2  MVI 框架的实现原理及与 MVVM 的对比.md",
-    "code知识库/7.1 MVVM 生命周期（Model-View-ViewModel Lifecycle）.md",
-    "code知识库/7.0  MVC、MVP、MVVM 之间的区别.md",
-    "code知识库/6 Glide 图片加载.md",
-    "code知识库/5.5  线程池与源码对照.md",
-    "code知识库/5.3 ThreadLocal.md",
-    "code知识库/5.3 Android 线程池.md",
-    "code知识库/5.2 Handler和HandlerThread的区别.md",
-    "code知识库/5.1.1 Handler 源码级分析（Looper、MessageQueue、nativePollOnce、epoll）.md",
-    "code知识库/5.1.2  Handler 机制原理.md",
     "图片/looper_loop_flowchart 1.png",
     "图片/handler_full_stack_layers.png",
     "图片/handler_architecture_overview.png",
