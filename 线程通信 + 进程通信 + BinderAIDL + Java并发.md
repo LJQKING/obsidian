@@ -128,7 +128,7 @@ Runnable.run()
 
 ### Looper
 
-负责不断从 MessageQueue 中取消息：
+负责不断从 MessageQueue 中取消息：q 
 
 ```java
 public static void loop() {

@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "8caee2d215c93dfb",
+        "id": "43af44f7f9e4bb59",
         "type": "tabs",
         "children": [
           {
-            "id": "6718d5b976473f5f",
+            "id": "2901e12f7d6b2e78",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Android 开发高级岗位.md",
+                "file": "code知识库/5 多线程.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,10 +28,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Android 开发高级岗位"
+              "title": "5 多线程"
+            }
+          },
+          {
+            "id": "21ebddbc0b454e6b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "code知识库/2.1 Android AIDL.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2.1 Android AIDL"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -168,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Android 开发高级岗位.md",
+                "file": "code知识库/2.1 Android AIDL.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -186,8 +211,8 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
+      "switcher:打开快速切换": false,
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
@@ -195,38 +220,38 @@
       "bases:新建数据库": false
     }
   },
-  "active": "6718d5b976473f5f",
+  "active": "21ebddbc0b454e6b",
   "lastOpenFiles": [
-    "线程通信与进程通信.md",
-    "线程通信 & 进程通信车载.md",
-    "面试问题清单.md",
+    "code知识库/10.4.1 LeakCanary.md",
     "Hybrid 混合开发、WebView 原理、JSBridge 通信机制.md",
+    "Android原生 Framework和AndroidX.md",
+    "android Navigation.md",
+    "code知识库/7.1.1 Android ViewModel.md",
+    "code知识库/1.3.0 Android Service.md",
+    "code知识库/8.3.1 Android LiveData.md",
+    "code知识库/8.3 LiveData缺点.md",
+    "code知识库/8.4 ViewModel 和 LiveData 在 MVVM 框架中的作用.md",
+    "code知识库/8.2 Socket 通信.md",
+    "code知识库/8.1.2  http请求优化和@POST请求限制.md",
+    "code知识库/8.1.1 OkHttp的多路复用.md",
+    "code知识库/8.1 OkHttp、Retrofit、RxJava 代码怎么写.md",
+    "code知识库/8.0.1 Retrofit + OkHttp + RxJava  实战进阶.md",
+    "code知识库/8.0 Retrofit + OkHttp + RxJava + Dagger2.md",
+    "code知识库/8 OkHttp、Retrofit、RxJava.md",
+    "code知识库/7.2  MVI 框架的实现原理及与 MVVM 的对比.md",
+    "code知识库/7.1 MVVM 生命周期（Model-View-ViewModel Lifecycle）.md",
+    "code知识库/7.0  MVC、MVP、MVVM 之间的区别.md",
+    "code知识库/6 Glide 图片加载.md",
+    "code知识库/5.5  线程池与源码对照.md",
+    "code知识库/5.3 ThreadLocal.md",
+    "code知识库/5.3 Android 线程池.md",
+    "code知识库/5.2 Handler和HandlerThread的区别.md",
+    "code知识库/5.1.1 Handler 源码级分析（Looper、MessageQueue、nativePollOnce、epoll）.md",
+    "code知识库/5.1.2  Handler 机制原理.md",
     "图片/looper_loop_flowchart 1.png",
-    "code知识库/5.1 Handler 源码级分析及原理.md",
     "图片/handler_full_stack_layers.png",
     "图片/handler_architecture_overview.png",
     "图片",
-    "code知识库/5.0 防内存泄漏的 Handler.md",
-    "code知识库/5.1  Handler 原理.md",
-    "Android原生 Framework和AndroidX.md",
-    "Android 开发高级岗位.md",
-    "A Java并发｜Kotlin协程｜内存管理.md",
-    "A 网络通信｜应用架构｜handler和线程池.md",
-    "线程通信 + 进程通信 + BinderAIDL + Java并发.md",
-    "code知识库/1.6 车载内Service和ContentProvider，BroadcastReceiver，AIDL.md",
-    "code知识库/8.0 Retrofit + OkHttp + RxJava + Dagger2.md",
-    "code知识库/24.4.1 Flow、StateFlow 和 SharedFlow 的核心原理.md",
-    "code知识库/24.4 Kotlin Flow 和 StateFlow 在复杂场景中的应用与原理.md",
-    "code知识库/24.3  LiveData｜RxJava｜Flow 不同场景实现.md",
-    "code知识库/24.1.2   Kotlin协程的阻塞（Blocking）与挂起（Suspending）.md",
-    "code知识库/21.0.1  单例｜观察者｜责任链 场景和组件.md",
-    "code知识库/21.0  单例｜工厂｜观察者｜责任链｜建造者模式.md",
-    "code知识库/12.0.1  DataStore 首页Item.md",
-    "code知识库/10.2.1  Android app冷启动和热启动.md",
-    "code知识库/10.4  LeakCanary检测和排查内存泄露，弱引用及GC回收机制.md",
-    "code知识库/9.2  POST请求头Content-Type.md",
-    "code知识库/9 OkHttp 拦截器（Interceptor）.md",
-    "code知识库/8.0.1 Retrofit + OkHttp + RxJava  实战进阶.md",
     "code知识库/handler_architecture_overview.png",
     "图片/kernel_epoll_eventfd_structure.png",
     "图片/Pasted image 20260616160427.png",

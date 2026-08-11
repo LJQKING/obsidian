@@ -1,5 +1,6 @@
 {
-  "accentColor": "#70bcff",
+  "accentColor": "",
   "theme": "system",
-  "cssTheme": "Blue Topaz"
+  "cssTheme": "Blue Topaz",
+  "translucency": true
 }
