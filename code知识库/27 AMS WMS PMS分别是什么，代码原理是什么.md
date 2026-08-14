@@ -1,3 +1,8 @@
+- [[26 framework是什么，怎么组成的，具体怎么使用.md]]  Framework源码
+- [[27.1  AMS 启动 Activity 源码（ActivityStarter、ActivityRecord）.md]]  Framework源码
+- [[27.2  WMS 显示 View 源码（ViewRootImpl、Surface）.md]]  Framework源码
+- [[27.3  PMS 安装 APK 源码（PackageParser、DexOpt）.md]]  Framework源码
+- [[29 JNI.md]]  Framework源码
 AMS、WMS、PMS 是 Android Framework 最核心的三个系统服务，几乎所有 App 的运行都离不开它们。
 
 面试中经常问：

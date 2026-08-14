@@ -2,5 +2,6 @@
   "accentColor": "",
   "theme": "system",
   "cssTheme": "Blue Topaz",
-  "translucency": true
+  "translucency": true,
+  "showRibbon": true
 }

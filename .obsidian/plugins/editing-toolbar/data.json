@@ -1,5 +1,5 @@
 {
-  "lastVersion": "4.0.11",
+  "lastVersion": "4.1.1",
   "aestheticStyle": "default",
   "positionStyle": "top",
   "menuCommands": [
@@ -432,10 +432,10 @@
   "cMenuBottomValue": 4.25,
   "cMenuNumRows": 12,
   "cMenuWidth": 610,
-  "cMenuFontColor": "#2DC26B",
+  "cMenuFontColor": "#eeece1",
   "cMenuBackgroundColor": "#d3f8b6",
   "autohide": false,
-  "Iscentered": false,
+  "Iscentered": true,
   "custom_bg1": "#FFB78B8C",
   "custom_bg2": "#CDF4698C",
   "custom_bg3": "#A0CCF68C",
@@ -484,6 +484,7 @@
   "useCurrentLineForRegex": false,
   "ai": {
     "enabled": true,
+    "showAIContextMenu": true,
     "consentAccepted": true,
     "onboardingShown": true,
     "providerMode": "pkmer-first",
@@ -504,8 +505,21 @@
       "artifact": "03-agent"
     },
     "pkmer": {
-      "tokenExpiresAt": 0,
-      "userInfo": null
+      "tokenExpiresAt": 1786512760748,
+      "userInfo": {
+        "sub": "6aa9d971-bd72-4749-a7c6-7053a5485fd1",
+        "name": "liujiaqing0915@163.com",
+        "email": "liujiaqing0915@163.com",
+        "ai_quota": {
+          "quota": 50000000,
+          "usedQuota": 0,
+          "remainingQuota": 50000000,
+          "remainingTokens": 100,
+          "requestCount": 0
+        },
+        "thino": false,
+        "supporter": false
+      }
     },
     "enableCustomModel": false,
     "customModel": {

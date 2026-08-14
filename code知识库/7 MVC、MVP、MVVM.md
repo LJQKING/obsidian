@@ -1,5 +1,10 @@
 # Android MVC、MVP、MVVM 框架原理及区别
 
+- [[7.0  MVC、MVP、MVVM 之间的区别.md]]  MVVM架构
+- [[7.1 MVVM 生命周期（Model-View-ViewModel Lifecycle）.md]]  MVVM架构
+- [[7.1.1 Android ViewModel.md]]  MVVM架构
+- [[7.2  MVI 框架的实现原理及与 MVVM 的对比.md]]  MVVM架构
+- [[8.4 ViewModel 和 LiveData 在 MVVM 框架中的作用.md]]  MVVM架构
 这三个架构模式本质上都是为了解决：
 
 > **UI层、业务逻辑层、数据层耦合严重，导致代码难维护、难测试的问题。**

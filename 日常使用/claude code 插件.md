@@ -1,3 +1,4 @@
+
 ## 📋 你安装的插件总览
 
 |插件|状态|功能|版本|
@@ -7,6 +8,11 @@
 |**ecc**|❌ 已禁用|Agent 框架和工程化系统|2.0.0-rc.1|
 |**claude-hud**|❌ 已禁用|Claude Code 执行情况监控|0.0.12|
 
+- [[1.6 车载内Service和ContentProvider，BroadcastReceiver，AIDL.md]]  车载智能座舱
+- [[22 蓝牙发数据.md]]  蓝牙与BLE
+- [[40 MQTT.md]]  加密与安全
+- [[40.1  MQTT 协议.md]]  加密与安全
+- [[Android 开发高级岗位.md]]  车载智能座舱
 ---
 
 ## 🔍 各插件详细说明

@@ -1,5 +1,10 @@
 # Android JNI 详解（原理 + 使用 + 源码分析 + 面试）
 
+- [[26 framework是什么，怎么组成的，具体怎么使用.md]]  Framework源码
+- [[27 AMS WMS PMS分别是什么，代码原理是什么.md]]  Framework源码
+- [[27.1  AMS 启动 Activity 源码（ActivityStarter、ActivityRecord）.md]]  Framework源码
+- [[27.2  WMS 显示 View 源码（ViewRootImpl、Surface）.md]]  Framework源码
+- [[27.3  PMS 安装 APK 源码（PackageParser、DexOpt）.md]]  Framework源码
 JNI（Java Native Interface）是 Java 与 C/C++ 之间的桥梁。
 
 Android Framework、Binder、Media、OpenGL、蓝牙协议栈等底层模块大量使用 JNI。

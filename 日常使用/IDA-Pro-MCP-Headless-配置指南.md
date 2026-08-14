@@ -1,7 +1,11 @@
+
 # IDA Pro MCP Headless 模式配置指南
 
 ## 概述
 
+- [[22 蓝牙发数据.md]]  蓝牙与BLE
+- [[22.1 BLE 分包.md]]  蓝牙与BLE
+- [[22.2 BLE 自动分包 + 重组完整代码.md]]  蓝牙与BLE
 IDA Pro MCP Server 通过 MCP (Model Context Protocol) 桥接 IDA Pro 与 AI 语言模型，支持在 Claude Code 中进行无头二进制分析（vibe reversing）。
 
 ---

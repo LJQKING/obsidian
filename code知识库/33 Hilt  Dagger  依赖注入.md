@@ -1,3 +1,7 @@
+
+- [[33.0  Dagger2 完全解析.md]]  Hilt依赖注入
+- [[33.1  Dagger2 vs Hilt 深度对比.md]]  Hilt依赖注入
+- [[33.2  Hilt 解析.md]]  Hilt依赖注入
 **Hilt / Dagger** 是 Android 开发中主流的**依赖注入（Dependency Injection，简称 DI）框架**。Dagger 是基础框架，Hilt 是 Google 基于 Dagger 专门为 Android 优化的简化版，极大减少了 Dagger 的样板代码。
 
 ### 1. 作用和能解决的问题

@@ -1,4 +1,5 @@
 {
   "promptDelete": false,
-  "attachmentFolderPath": "图片"
+  "attachmentFolderPath": "图片",
+  "alwaysUpdateLinks": true
 }

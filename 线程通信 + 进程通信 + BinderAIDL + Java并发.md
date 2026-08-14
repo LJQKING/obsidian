@@ -3,6 +3,11 @@
 
 # 一、先建立整个岗位的通信体系
 
+- [[1.6 车载内Service和ContentProvider，BroadcastReceiver，AIDL.md]]  车载智能座舱
+- [[5.0 防内存泄漏的 Handler.md]]  Handler消息机制
+- [[5.0.1  Handler]]  Handler消息机制
+- [[5.1 Handler 源码级分析及原理.md]]  Handler消息机制
+- [[5.2 Handler和HandlerThread的区别.md]]  Handler消息机制
 你可以把所有通信问题分成 4 层：
 
 ```text

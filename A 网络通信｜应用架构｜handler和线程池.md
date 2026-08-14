@@ -5,6 +5,11 @@
 
 #### 1️⃣ **架构设计**
 
+- [[5.2 Handler和HandlerThread的区别.md]]  Handler消息机制
+- [[8.0 Retrofit + OkHttp + RxJava + Dagger2.md]]  网络
+- [[8.1 OkHttp、Retrofit、RxJava 代码怎么写.md]]  网络
+- [[8.2 Socket 通信.md]]  网络
+- [[9 OkHttp 拦截器（Interceptor）.md]]  网络
 ```
 ┌─────────────────────────────────┐
 │ 业务层 (Repository)             │

@@ -1,3 +1,8 @@
+- [[27 AMS WMS PMS分别是什么，代码原理是什么.md]]  Framework源码
+- [[27.1  AMS 启动 Activity 源码（ActivityStarter、ActivityRecord）.md]]  Framework源码
+- [[27.2  WMS 显示 View 源码（ViewRootImpl、Surface）.md]]  Framework源码
+- [[27.3  PMS 安装 APK 源码（PackageParser、DexOpt）.md]]  Framework源码
+- [[29 JNI.md]]  Framework源码
 Android Framework 是 Android 系统中最核心的一层，它位于 Linux Kernel 和应用层之间，为开发者提供了大量 API，使开发者无需直接操作底层驱动即可开发 App。
 
 ---

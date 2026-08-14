@@ -1,7 +1,13 @@
+
 ## 1. Kotlin 开发语言与特性
 
 ### 1.1 干什么的
 
+- [[25.1 Kotlin 函数.md]]  Kotlin基础
+- [[25.2 Kotlin 数据类型.md]]  Kotlin基础
+- [[25.4 Kotlin var和val｜可控类型.md]]  Kotlin基础
+- [[25.5 Kotlin 高级函数.md]]  Kotlin基础
+- [[25.5.1 Kotlin 内联函数  Inline Functions.md]]  Kotlin基础
 Kotlin 是 JetBrains 推出的在 JVM 上运行的静态类型语言，已成为 Android 官方推荐开发语言。相比 Java，Kotlin 具有更简洁的语法、更强的类型安全性和更好的函数式编程支持。
 
 ### 1.2 怎么用的

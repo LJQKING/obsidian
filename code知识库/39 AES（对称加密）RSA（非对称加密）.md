@@ -1,3 +1,8 @@
+
+- [[40 MQTT.md]]  加密与安全
+- [[40.1  MQTT 协议.md]]  加密与安全
+- [[App 逆向工程.md]]  加密与安全
+- [[app 逆向工程：4周实战计划.md]]  加密与安全
 **Android 加密方式：AES 与 RSA（及混合使用）**
 
 Android 中最常用的对称加密是 **AES**（Advanced Encryption Standard），非对称加密是 **RSA**。官方推荐优先使用 **AES-256**（GCM 或 CBC 模式）。

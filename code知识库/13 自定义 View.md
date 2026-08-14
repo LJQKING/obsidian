@@ -1,3 +1,8 @@
+- [[13.1 ViewGroup 和 View 的区别及关系.md]]  View与UI
+- [[14 事件分发和事件拦截.md]]  View与UI
+- [[14.1 滑动冲突+事件分发.md]]  View与UI
+- [[15 滑动冲突.md]]  View与UI
+- [[18 ConstraintLayout 约束布局.md]]  View与UI
 Android 自定义 View 是 Android 开发里非常核心的一块，面试和实战都经常用到。可以从**基础流程 → 三大核心方法 → 自定义分类 → 实战示例 → 源码理解**来掌握。
 
 ---

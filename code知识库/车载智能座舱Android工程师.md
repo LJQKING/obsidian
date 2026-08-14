@@ -1,3 +1,8 @@
+
+- [[1.6 车载内Service和ContentProvider，BroadcastReceiver，AIDL.md]]  车载智能座舱
+- [[Android 开发高级岗位.md]]  车载智能座舱
+- [[线程通信 & 进程通信车载.md]]  车载智能座舱
+- [[线程通信 + 进程通信 + BinderAIDL + Java并发.md]]  车载智能座舱
 这份JD对应的是标准的"车企/Tier1智能座舱Android工程师"技术栈，整体链路可以先建立一个框架，后面每一节基本都是这条链路上的某一层：
 
 ```

@@ -1,3 +1,6 @@
 {
-  "preview": true
+  "preview": true,
+  "search": true,
+  "bookmarks": true,
+  "editor": true
 }

@@ -1,5 +1,8 @@
 # Binder IPC 原理（Android 系统服务通信核心）
 
+- [[1.6 车载内Service和ContentProvider，BroadcastReceiver，AIDL.md]]  Binder与AIDL
+- [[2.1  AIDL]]  Binder与AIDL
+- [[2.3  Binder]]  Binder与AIDL
 Android 中的 **AMS、WMS、PMS、LocationManager、BluetoothManager** 等系统服务，本质上都是通过 **Binder IPC** 实现跨进程通信。
 
 ---

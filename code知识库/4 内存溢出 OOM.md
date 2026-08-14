@@ -1,5 +1,9 @@
 # Android 内存溢出（OOM，Out Of Memory）
 
+- [[10.4  LeakCanary检测和排查内存泄露，弱引用及GC回收机制.md]]  内存与OOM
+- [[10.4.1 LeakCanary.md]]  内存与OOM
+- [[3 内存泄露.md]]  内存与OOM
+- [[3.1 内存泄露根本原因.md]]  内存与OOM
 OOM 是 Android 开发中最常见、也是最严重的问题之一。当应用申请内存时，系统无法再分配足够空间，就会抛出：
 
 ```java

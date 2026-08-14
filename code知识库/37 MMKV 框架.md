@@ -1,5 +1,10 @@
 # Android MMKV 框架详解（面试必问）
 
+- [[12 Room 数据库.md]]  数据持久化
+- [[12.0 DataStore.md]]  数据持久化
+- [[12.0.1  DataStore 首页Item.md]]  数据持久化
+- [[12.0.2  MMKV和Datastore对比.md]]  数据持久化
+- [[12.1 Room 增加字段.md]]  数据持久化
 MMKV 是腾讯微信团队开源的高性能 Key-Value 存储框架，主要用于替代 Android 的 SharedPreferences。其核心特点是：
 
 - 读写速度快

@@ -1,3 +1,8 @@
+- [[15 滑动冲突.md]]  View与UI
+- [[13 自定义 View.md]]  View与UI
+- [[13.1 ViewGroup 和 View 的区别及关系.md]]  View与UI
+- [[14 事件分发和事件拦截.md]]  View与UI
+- [[14.1 滑动冲突+事件分发.md]]  View与UI
 RecyclerView 的“复用 ViewHolder”其实是系统帮你做的核心优化点，你只需要**正确写 Adapter 的 onCreateViewHolder / onBindViewHolder**，就能自动复用。
 
 下面给你一版**标准 + 面试级写法（Java）**。

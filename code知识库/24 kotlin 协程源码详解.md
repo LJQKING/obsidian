@@ -1,3 +1,9 @@
+
+- [[5.1 Handler 源码级分析及原理.md]]  Handler消息机制
+- [[0  Kotlin  函数｜MVVM｜Jetpack｜协程｜Retrofit + OkHttp.md]]  协程与Flow
+- [[1.6 车载内Service和ContentProvider，BroadcastReceiver，AIDL.md]]  车载智能座舱
+- [[24.1.1  Coroutine（Kotlin 协程）.md]]  协程与Flow
+- [[5.0 防内存泄漏的 Handler.md]]  Handler消息机制
 Kotlin 协程（Coroutines）在 JVM 层面的实现并没有引入任何操作系统级别的神秘魔法，其核心原理可以概括为：**CPS（Continuation Passing Style，续体传递风格）转换 + 状态机（State Machine）**。
 
 Kotlin 编译器在编译期会将带有 `suspend` 关键字的代码切碎并重构为状态机，而官方库 `kotlinx.coroutines` 则负责调度、生命周期管理和取消协作。
