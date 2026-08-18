@@ -1,5 +1,6 @@
 {
   "promptDelete": false,
   "attachmentFolderPath": "图片",
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "defaultViewMode": "source"
 }

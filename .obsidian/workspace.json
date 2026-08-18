@@ -4,11 +4,83 @@
     "type": "split",
     "children": [
       {
-        "id": "8d96b5177b450edb",
+        "id": "bfa544019801cdf7",
         "type": "tabs",
         "children": [
           {
-            "id": "1d75ec47f6d74e3b",
+            "id": "5638e8ccb0c4039f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "面试问题清单.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "面试问题清单"
+            }
+          },
+          {
+            "id": "bf965d8e28e966fe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "code知识库/22.4 RxAndroidBLE 分包 合包.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "22.4 RxAndroidBLE 分包 合包"
+            }
+          },
+          {
+            "id": "f934da56b0ab69ba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MVVM｜MVI｜LiveData｜Flow ｜ StateFlow｜字符串拼接.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "MVVM｜MVI｜LiveData｜Flow ｜ StateFlow｜字符串拼接"
+            }
+          },
+          {
+            "id": "2805193bac7ce5e0",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -32,199 +104,7 @@
             }
           },
           {
-            "id": "f838052f856493d9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "code知识库/2.2 ContentProvider.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2.2 ContentProvider"
-            }
-          },
-          {
-            "id": "107acf710ba97450",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "code知识库/1.5.1 BroadcastReceiver.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "1.5.1 BroadcastReceiver"
-            }
-          },
-          {
-            "id": "2ea4fb01db87b138",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "code知识库/5.0.1  Handler.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "5.0.1  Handler"
-            }
-          },
-          {
-            "id": "e1daa715fe50c01d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "code知识库/5.0 防内存泄漏的 Handler.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "5.0 防内存泄漏的 Handler"
-            }
-          },
-          {
-            "id": "afaf2dd76b685d67",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "code知识库/1.3.0 Service.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "1.3.0 Service"
-            }
-          },
-          {
-            "id": "3401294c9947939c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "座舱语音.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "座舱语音"
-            }
-          },
-          {
-            "id": "064d40cc1825bedd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "code知识库/10.2.1  app冷启动和热启动.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "10.2.1  app冷启动和热启动"
-            }
-          },
-          {
-            "id": "48b64fe6c7c671e3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "code知识库/10 性能优化.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "10 性能优化"
-            }
-          },
-          {
-            "id": "2dc78e902335c4b9",
+            "id": "dee1136bab61fcc0",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -245,6 +125,54 @@
               },
               "icon": "lucide-file",
               "title": "21.0.1  单例｜观察者｜责任链 场景和组件"
+            }
+          },
+          {
+            "id": "1eb1ea1376ae1d65",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "code知识库/24.4.1 Flow、StateFlow 和 SharedFlow 的核心原理.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "24.4.1 Flow、StateFlow 和 SharedFlow 的核心原理"
+            }
+          },
+          {
+            "id": "4125c65a2f6ff31e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "音频机制台保活｜权限管理｜性能优化 内存、卡顿、启动速度.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "音频机制台保活｜权限管理｜性能优化 内存、卡顿、启动速度"
             }
           }
         ],
@@ -395,7 +323,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "座舱语音.md",
+                "file": "音频机制台保活｜权限管理｜性能优化 内存、卡顿、启动速度.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -420,34 +348,34 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "3401294c9947939c",
+  "active": "4125c65a2f6ff31e",
   "lastOpenFiles": [
-    "code知识库/1.5.1 BroadcastReceiver.md",
+    "日常使用/Mole命令.md",
+    "面试问题清单.md",
+    "音频机制台保活｜权限管理｜性能优化 内存、卡顿、启动速度.md",
+    "code知识库/24.4.1 Flow、StateFlow 和 SharedFlow 的核心原理.md",
     "座舱语音.md",
-    "code知识库/21.0.1  单例｜观察者｜责任链 场景和组件.md",
-    "code知识库/1.3.0 Service.md",
-    "code知识库/1.6 车载内Service和ContentProvider，BroadcastReceiver，AIDL.md",
-    "code知识库/10 性能优化.md",
-    "code知识库/10.0  ANR.md",
+    "日常使用/claude code 插件.md",
+    "code知识库/13.0  自定义View 实现高性能图表.md",
+    "code知识库/13.3  自定义 View绘制完后刷新数据.md",
+    "code知识库/13.4  自定义 View `onDraw()`、`onDrawForeground()` 和 `onDrawBackground().md",
+    "code知识库/10.3  Perfetto性能分析+RecyclerView优化.md",
+    "code知识库/10.4  LeakCanary检测和排查内存泄露，弱引用及GC回收机制.md",
     "code知识库/10.2.1  app冷启动和热启动.md",
-    "code知识库/5.0 防内存泄漏的 Handler.md",
-    "code知识库/5.0.1  Handler.md",
-    "code知识库/2.2 ContentProvider.md",
-    "A Java并发｜Kotlin协程｜内存管理.md",
-    "RxAndroidBle.md",
-    "线程通信 + 进程通信 + BinderAIDL + Java并发.md",
-    "code知识库/24.1  Kotlin 协程源码面试题.md",
-    "code知识库/24.1.1  Coroutine（Kotlin 协程）.md",
-    "code知识库/2.1  AIDL.md",
-    "code知识库/2.3  Binder.md",
-    "code知识库/43  动画.md",
-    "code知识库/13 自定义 View.md",
-    "code知识库/10.2  app怎么优化.md",
-    "code知识库/0.2 git命令.md",
-    "code知识库/0.1 ADB Shell 命令.md",
-    "code知识库/5.3 线程池.md",
-    "code知识库/10.1 性能优化之 APK 瘦身.md",
-    "code知识库/14.1 滑动冲突+事件分发.md",
+    "code知识库/33.2  Hilt 解析.md",
+    "code知识库/33.1  Dagger2 vs Hilt 深度对比.md",
+    "code知识库/7.2  MVI 框架的实现原理及与 MVVM 的对比.md",
+    "code知识库/7.1 MVVM 生命周期（Model-View-ViewModel Lifecycle）.md",
+    "MVVM｜MVI｜LiveData｜Flow ｜ StateFlow｜字符串拼接.md",
+    "code知识库/7.0  MVC、MVP、MVVM 之间的区别.md",
+    "code知识库/7.2.1 MVVM 与 MVI 框架原理.md",
+    "code知识库/22.4 RxAndroidBLE 分包 合包.md",
+    "code知识库/21.0.1  单例｜观察者｜责任链 场景和组件.md",
+    "code知识库/24.3  LiveData｜RxJava｜Flow 不同场景实现.md",
+    "code知识库/25.3 Kotlin Flow 原理.md",
+    "code知识库/25.5.1 Kotlin 内联函数  Inline Functions.md",
+    "code知识库/1.6 车载内Service和ContentProvider，BroadcastReceiver，AIDL.md",
+    "字符串拼接.md",
     "图片/looper_loop_flowchart 1.png",
     "图片/handler_full_stack_layers.png",
     "图片/handler_architecture_overview.png",
